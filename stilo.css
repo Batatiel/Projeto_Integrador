@@ -1,0 +1,19 @@
+@import url('https://fonts.cdnfonts.com/css/palatino');
+
+body
+{
+    font-family: 'Palatino', sans-serif;
+}
+.navbar
+{
+    display: flex;
+    width: 100%;
+    background: rgb(0,0,0);
+    height: 200px;
+}
+
+.logo
+{
+    width: 250px;
+    height: 200px;
+}
